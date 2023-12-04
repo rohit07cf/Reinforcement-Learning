@@ -36,3 +36,5 @@ There are different approaches to learning and making decisions in an environmen
 
 
 <b>These concepts form the foundation of reinforcement learning and are essential for understanding and developing algorithms for decision-making in dynamic environments.</b> 
+
+AMAZING COURSE BY DAVID SILVER FROM DEEP MIND: https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
