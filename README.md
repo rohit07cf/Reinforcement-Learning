@@ -8,7 +8,7 @@ We will try to learn concepts like:
   <b>* State:</b> A representation of the current situation or configuration of the environment.  
   <b>* Action:</b> The set of possible moves or decisions an agent can make in a given state.  
   <b>* Reward:</b> A numerical value that the environment provides to the agent as feedback based on the agent's action in a particular state.  
-  <b>* Policy:</b> The strategy or set of rules that the agent uses to determine its actions in different states.  
+  <b>* Policy:</b> The strategy or set of rules that the agent uses to determine its actions in different states. The goal in reinforcement learning is often to find an optimal policy that maximizes the cumulative reward over time.    
   <b>* Value Function:</b> A function that estimates the expected cumulative reward an agent can obtain from a given state (or state-action pair) under a certain policy.  
   <b>* Model:</b> In the context of RL, a model represents the agent's understanding or approximation of the environment, including how it responds to the agent's actions.  
   <b>* Markov property: </b> The Markov property states that, in a stochastic process, the future state depends only on the current state and is independent of the past states, making the sequence of events a memoryless process. This property is fundamental in Markov Decision Processes (MDPs) for modeling and solving problems in reinforcement learning.  
