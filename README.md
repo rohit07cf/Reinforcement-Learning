@@ -27,4 +27,12 @@ In reinforcement learning, environments are often categorized based on the natur
   <b>* Episodic Environment:</b> In episodic environments, tasks are divided into self-contained episodes, each with a distinct beginning and end. These episodes represent specific, task-oriented interactions, such as completing a level in a game or solving a puzzle.  
   <b>* Non-Episodic Environment:</b> In non-episodic or continuing environments, no clear episodes or defined start/end points exist. Interactions persist indefinitely, and the agent's goal is often to maximize cumulative rewards over time. Examples include ongoing decision-making scenarios or tasks like continuous control and online portfolio management.  
 
+
+There are different approaches to learning and making decisions in an environment:  
+
+  <b>*Model-Free Approach:</b> In a model-free approach, the RL agent learns directly from interacting with the environment without building an explicit model of the environment's dynamics. The focus is on learning optimal policies or value functions through trial and error, without requiring knowledge of the transition probabilities between states or the rewards associated with state-action pairs. Examples of model-free algorithms include Q-learning and deep reinforcement learning methods like Deep Q Networks (DQN).  
+
+  <b>*Model-Based (Model-Dependent) Approach:</b> In a model-based approach, the RL agent constructs an explicit model of the environment, including the transition dynamics between states and the associated rewards. The agent then uses this model to plan and make decisions about its actions. Model-based methods aim to leverage the learned model to simulate possible outcomes and optimize decision-making. While this approach can be more sample-efficient in some cases, it requires accurate modeling of the environment, which may be challenging in complex or unknown domains.  
+
+
 <b>These concepts form the foundation of reinforcement learning and are essential for understanding and developing algorithms for decision-making in dynamic environments.</b> 
