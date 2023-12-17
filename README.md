@@ -1,6 +1,6 @@
 # Reinforcement-Learning
 
-This repository is to understand the basics of reinforcement learning. I believe RL plays a crucial role in the development of Artificial General Intelligence (AGI), and its importance lies in its ability to enable systems to learn and make decisions in complex, dynamic environments. RL offers a different paradigm that is particularly relevant for achieving AGI.
+This repository is to understand reinforcement learning. I believe RL plays a crucial role in the development of Artificial General Intelligence (AGI), and its importance lies in its ability to enable systems to learn and make decisions in complex, dynamic environments. RL offers a different paradigm that is particularly relevant for achieving AGI.
 We will try to learn concepts like:
   
   <b>* Agent:</b> The entity or system that takes actions within an environment.  
